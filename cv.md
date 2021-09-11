@@ -27,3 +27,5 @@ I am 37 years old, I work as a environmental protection engineer. I really need 
   ## Education:
 * Belarusian State Agricultural Academy (environmental protection engineer)
 * FRONT END DEVELOPER (RSSchool - in proccess...)
+## Languages:
+Basic knowledge
