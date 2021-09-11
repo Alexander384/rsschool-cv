@@ -11,3 +11,19 @@ I am 37 years old, I work as a environmental protection engineer. I really need 
 * JavaScript
 * Git/GitHub
 * Figma
+## Code Examples:
+```function arithmetic(a, b, operator){
+ if (operator === "subtract") {
+   return a - b;
+ } else if (operator === "add") {
+    return a + b;  
+ } else if (operator === "multiply") {
+    return a * b;
+ } else if (operator === "divide") {
+   return a / b;
+}
+  } 
+  ```
+  ## Education:
+* Belarusian State Agricultural Academy (environmental protection engineer)
+* FRONT END DEVELOPER (RSSchool - in proccess...)
