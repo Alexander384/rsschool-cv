@@ -1,0 +1,201 @@
+body {
+    background-color: black;
+    display: block;
+}
+
+
+
+.aside {
+    background-color: slategrey;
+    display: block;
+    width: 30%;
+}
+
+.container {
+    display: flex;
+    width: 1000px;
+    height: 100%;
+    margin: 0 auto;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.aside_photo {
+    width: 100%;
+    display: block;
+    margin-bottom: 40px;
+
+}
+
+img {
+   max-width: 100%; 
+   max-height: 100%;
+}
+
+.skills_list {
+    color: rgb(240, 210, 40);
+    list-style: none;
+    padding: 0;
+    line-height: 35px;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.education {
+    margin-left: 50px;
+    margin-bottom: 40px;
+}
+
+.education_prof {
+    padding-left: 20px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.contacts {
+    margin-left: 50px;
+    margin-bottom: 40px;
+}
+
+.skills {
+    margin-left: 50px;
+    margin-bottom: 40px; 
+}
+
+.divider {
+    display: block;
+    height: 2px;
+    background-color: rgb(240, 210, 40);
+    margin-bottom: 1em;
+}
+
+.contacts_wrap {
+    color: rgb(240, 210, 40);
+    list-style: none;
+    padding: 0;
+    line-height: 35px;
+}
+
+.skils_css {
+    background-image: url(css_icon.ico);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    padding-left: 40px;
+}
+
+.skils_html {
+    background-image: url(html_icon.ico);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    padding-left: 40px;
+}
+
+.skils_js {
+    background-image: url(js_icon.ico);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    padding-left: 40px;
+}
+
+.skils_git, .contacts_github {
+    background-image: url(github_git_icon.ico);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    padding-left: 40px;
+}
+
+.skils_figma {
+    background-image: url(figma_logo.ico);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    padding-left: 40px;
+}
+
+.contacts_phone {
+    background-image: url(mobilephone.ico);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    padding-left: 40px;
+}
+
+.contacts_e-mail {
+    background-image: url(Mail.ico);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    padding-left: 40px;
+}
+
+a {
+    color: rgb(240, 210, 40);
+    text-decoration: none;
+    display: block;
+}
+
+
+
+
+
+.main {
+    background-color: white;
+    display: block;
+    width: 70%;
+    color: black;
+    padding-top: 70px;
+}
+
+.header {
+    
+    max-width: 100%;
+    height: 200px;
+    background-color: rgb(240, 210, 40);
+    padding-top: 50px;
+    padding-left: 50px;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+
+}
+
+.main_wrap {
+    padding: 0px 60px;
+}
+
+.divider_bl {
+    display: block;
+    height: 2px;
+    background-color: black;
+    margin: 20px 0px;
+}
+
+.code {
+    line-height: 20px;
+}
+
+
+
+
+
+
+
+
+
+.footer {
+    max-width: 100%;
+    max-height: 50px;
+    background-color: rgb(240, 210, 40);
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 50px;
+    font-size: 25px;
+}
+
+.footer div {
+    height: 150px;
+    width: 150px;
+}
+
+
+
