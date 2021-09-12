@@ -184,11 +184,12 @@ a {
 
 .footer {
     max-width: 100%;
-    max-height: 100px;
+    max-height: 50px;
     background-color: rgb(240, 210, 40);
     display: flex;
     justify-content: space-between;
     padding: 50px 50px;
+    font-size: 25px;
 }
 
 .footer div {
